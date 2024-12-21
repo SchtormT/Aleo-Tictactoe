@@ -47,7 +47,7 @@ leo run <function_name>
 ## Executing the Program
 ```bash
 leo execute <function_name> <input_1> <input_2> ...
-```
+``
 
 ## Playing the Game
 
